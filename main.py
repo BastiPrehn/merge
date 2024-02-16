@@ -1,5 +1,5 @@
 def main():
-    print("This will be the >>BASE<<.")  # i.e. the common ancestor of both changes
+    print("This will be the >>INCOMING Change<<.")
 
 
 if __name__ == "__main__":
